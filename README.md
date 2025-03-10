@@ -16,17 +16,17 @@ Contents: The dataset contains store sales data, including product details, sale
 
 The analysis was conducted using the following steps:
 
-*Data Cleaning: Removed duplicates, handled missing values, and standardized formats.
+* Data Cleaning: Removed duplicates, handled missing values, and standardized formats.
 
-Exploratory Data Analysis (EDA): Identified trends, seasonality, and sales patterns.
+* Exploratory Data Analysis (EDA): Identified trends, seasonality, and sales patterns.
 
-Key Metrics Calculation: Total revenue, profit margins, top-selling products, and customer segmentation.
+* Key Metrics Calculation: Total revenue, profit margins, top-selling products, and customer segmentation.
 
-Dashboard Creation: Designed an interactive and visually appealing Excel dashboard.
+* Dashboard Creation: Designed an interactive and visually appealing Excel dashboard.
 
-📊 Key Insights & Dashboard
+## 📊 Key Insights & Dashboard
 
-Identified top-selling products and their contribution to revenue.
+* Identified top-selling products and their contribution to revenue.
 
 Analyzed monthly and yearly sales trends for forecasting.
 
