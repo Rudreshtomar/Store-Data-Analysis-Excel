@@ -28,43 +28,43 @@ The analysis was conducted using the following steps:
 
 * Identified top-selling products and their contribution to revenue.
 
-Analyzed monthly and yearly sales trends for forecasting.
+* Analyzed monthly and yearly sales trends for forecasting.
 
-Evaluated customer behavior (new vs. returning customers).
+* Evaluated customer behavior (new vs. returning customers).
 
-Highlighted high-revenue and low-profit items to optimize inventory.
+* Highlighted high-revenue and low-profit items to optimize inventory.
 
-Created a dynamic dashboard for easy visualization.
+* Created a dynamic dashboard for easy visualization.
 
-📎 Final Analysis & Dashboard File: [Final Analysis & Dashboard With Insights.xlsx]
+# 📎 Final Analysis & Dashboard File: [Final Analysis & Dashboard With Insights.xlsx]
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
-Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
+* Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
 
-Data Cleaning & Preprocessing
+* Data Cleaning & Preprocessing
 
-Visualization & Dashboard Design
+* Visualization & Dashboard Design
 
-🚀 How to Use
+## 🚀 How to Use
 
-Download the dataset and final analysis file.
+* Download the dataset and final analysis file.
 
-Open the Excel file 'Final Analysis & Dashboard With Insights.xlsx'.
+* Open the Excel file 'Final Analysis & Dashboard With Insights.xlsx'.
 
-Explore the dashboard to interact with key insights.
+* Explore the dashboard to interact with key insights.
 
-Modify or extend the analysis based on business needs.
+* Modify or extend the analysis based on business needs.
 
-📈 Future Improvements
+## 📈 Future Improvements
 
-Automating data updates using Power Query.
+* Automating data updates using Power Query.
 
-Integrating Python or Power BI for advanced analytics.
+* Integrating Python or Power BI for advanced analytics.
 
-Expanding customer segmentation insights using ML models.
+* Expanding customer segmentation insights using ML models.
 
-📬 Contact
+## 📬 Contact
 
 For any queries or collaborations, feel free to reach out!
 
