@@ -6,19 +6,17 @@ Store Sales Analysis - Excel Dashboard
 
 This project involves analyzing a store sales dataset using Excel to uncover key insights, trends, and patterns. The final outcome includes a well-structured dashboard showcasing the findings, helping businesses make data-driven decisions.
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 File Name: Store Sales Dataset.xlsx
 
-Source: [Specify if applicable]
-
 Contents: The dataset contains store sales data, including product details, sales transactions, customer information, and other relevant attributes.
 
-🔍 Analysis Process
+## 🔍 Analysis Process
 
 The analysis was conducted using the following steps:
 
-Data Cleaning: Removed duplicates, handled missing values, and standardized formats.
+*Data Cleaning: Removed duplicates, handled missing values, and standardized formats.
 
 Exploratory Data Analysis (EDA): Identified trends, seasonality, and sales patterns.
 
