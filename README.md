@@ -2,7 +2,7 @@
 "📊 Store Sales Analysis &amp; Interactive Excel Dashboard – Uncover key sales trends, top-selling products, and customer insights with data-driven visualizations! 🚀"
 Store Sales Analysis - Excel Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project involves analyzing a store sales dataset using Excel to uncover key insights, trends, and patterns. The final outcome includes a well-structured dashboard showcasing the findings, helping businesses make data-driven decisions.
 
