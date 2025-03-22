@@ -36,5 +36,6 @@ Here's a snapshot of the final interactive dashboard for quick insights:
 ## 💼 About Me
 I’m passionate about data analysis and insights-driven decision-making. Open to opportunities where I can contribute using my analytical skills.
 
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rudreshtomar5)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudreshtomar5)
+
 
